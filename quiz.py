@@ -1,4 +1,4 @@
-# Inicialização de variáveis de estadosss
+# Inicialização de variáveis de estado
 opcao_menu = ""
 
 while opcao_menu != "2":
